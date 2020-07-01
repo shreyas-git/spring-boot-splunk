@@ -30,7 +30,7 @@ Run the included docker-compose file with:
 docker-compose up
 ```
 
-## Generate logs
+## Generate logs  test test 
 
 Application startup will generate some logs.
 
